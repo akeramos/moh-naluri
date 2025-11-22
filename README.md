@@ -1,2 +1,0 @@
-# moh-naluri
-login item
